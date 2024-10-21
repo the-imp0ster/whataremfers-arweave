@@ -1,0 +1,13 @@
+{
+  "name": "enciphered-wam",
+  "version": "1.0.0",
+  "description": "what are mfers - enciphered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imp0ster",
+  "dependencies": {
+    "arweave": "^1.15.1"
+  }
+}
